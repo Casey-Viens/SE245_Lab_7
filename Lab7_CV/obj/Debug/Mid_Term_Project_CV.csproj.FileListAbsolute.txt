@@ -1,0 +1,10 @@
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.csprojAssemblyReference.cache
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.Form1.resources
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.Properties.Resources.resources
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.csproj.GenerateResource.cache
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.csproj.CoreCompileInputs.cache
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\bin\Debug\Mid_Term_Project_CV.exe.config
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\bin\Debug\Mid_Term_Project_CV.exe
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\bin\Debug\Mid_Term_Project_CV.pdb
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.exe
+E:\School\Now\C#\Week5\Mid_Term_Project_CV\obj\Debug\Mid_Term_Project_CV.pdb
